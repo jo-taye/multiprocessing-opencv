@@ -25,6 +25,7 @@ For demonstration purposes, I will be applying basic filters such as gray filter
 
 To process the images using openCv we have to first import it into our program using the following python statement.
 
+![Sample](plot/image_rgb_gray.png)
 
 ```python
 import cv2 #Imports the opencv module
@@ -194,7 +195,7 @@ for n in N:
     2000		76.1707		65.4987
     
 
-![AAU LOGO](plot/plot.png)
+![Plot](plot/plot.png)
 
 ## Conclusion
 
