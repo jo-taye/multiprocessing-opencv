@@ -194,7 +194,7 @@ for n in N:
     2000		76.1707		65.4987
     
 
-![AAU LOGO](plot\plot.png)
+![AAU LOGO](plot/plot.png)
 
 ## Conclusion
 
